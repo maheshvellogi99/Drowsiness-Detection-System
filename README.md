@@ -1,4 +1,4 @@
-# 😴 Drowsiness Detection System
+# Drowsiness Detection System
 
 A real-time drowsiness and yawn detection system built with Python, OpenCV, and `face_recognition`. It monitors a driver's eyes and mouth via webcam (or mobile camera) and triggers voice alerts when signs of drowsiness or yawning are detected.
 
